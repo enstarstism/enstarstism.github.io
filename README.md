@@ -12,3 +12,7 @@ im so sillay
 <p align="center">
   <img width="300" height="250" src="http://img.youtube.com/vi/ye5v9mOkDh8/0.jpg">
 </p>
+
+- [x] make a github page
+- [x] be gay do crime
+- [ ] make it through the school year
