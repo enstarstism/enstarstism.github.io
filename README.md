@@ -9,4 +9,6 @@ Blair Tena Robles
 
 im so sillay
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/ye5v9mOkDh8/0.jpg)](http://www.youtube.com/watch?v=ye5v9mOkDh8 "ATARASHII GAKKO! - 新しい学校のリーダーズ ｢恋ゲバ｣")
+<p align="center">
+  <img width="300" height="250" src="http://img.youtube.com/vi/ye5v9mOkDh8/0.jpg">
+</p>
