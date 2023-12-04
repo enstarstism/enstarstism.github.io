@@ -1,2 +1,2 @@
 theme: jekyll-theme-midnight
-font: comic-sans
+$base-font-family: "Comic Sans", comic;
