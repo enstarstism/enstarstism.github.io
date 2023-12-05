@@ -14,5 +14,4 @@ im so sillay
 </p>
 
 - [x] make a github page
-- [x] be gay do crime
-- [ ] make it through the school year
+- [ ] make it through the school year 
