@@ -23,4 +23,6 @@ Space imagery also appears in many Analog Horror videos, often in a sinister lig
 
 ### Image Concepts
 
-  <img width="650" height="300" src="https://static.wikia.nocookie.net/aesthetics/images/d/d3/AnalogHorror4.jpg">
+  <img width="350" height="350" src="https://static.wikia.nocookie.net/aesthetics/images/f/fb/AnalogHorror2.gif">
+
+  <img width="350" height="350" src="https://static.wikia.nocookie.net/aesthetics/images/7/7d/Analog_Horror_Gemini_Home_Entertainment_System.jpg">
