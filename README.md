@@ -26,3 +26,10 @@ Space imagery also appears in many Analog Horror videos, often in a sinister lig
   <img width="350" height="350" src="https://static.wikia.nocookie.net/aesthetics/images/f/fb/AnalogHorror2.gif">
 
   <img width="350" height="350" src="https://static.wikia.nocookie.net/aesthetics/images/7/7d/Analog_Horror_Gemini_Home_Entertainment_System.jpg">
+
+### Example Media
+- Five Nights at Freddy's (Game Released in 2014)
+- The Blair Witch Project (Film Released in 1999)
+- Gemini Home Entertainment (Webseries by Remy Abode)
+
+ 
