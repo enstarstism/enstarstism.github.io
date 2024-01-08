@@ -8,12 +8,12 @@ Blair Tena Robles
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ufRi-BmHnsQ?si=PaxE36hfPPxdGPmz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 ---
 
-# My Top 10 Favorite Internet Aesthetics
+# My Top 2 Favorite Internet Aesthetics
 (all info taken from https://aesthetics.fandom.com/) :D
 
 ---
 
-## N.10 - Analog Horror         (also known as VHS Horror, Found Footage and Found Footage Horror)
+## N.2 - Analog Horror         (also known as VHS Horror, Found Footage and Found Footage Horror)
 
 ---
 
@@ -42,7 +42,7 @@ Space imagery also appears in many Analog Horror videos, often in a sinister lig
  
 ---
 
-## N.09 - Cybercore         (also known as Cyber Y2K, Y2K Futurism, Y3K (in Japan), Kaybug)
+## N.1 - Cybercore         (also known as Cyber Y2K, Y2K Futurism, Y3K (in Japan), Kaybug)
 
 ---
 
